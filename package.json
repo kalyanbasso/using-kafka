@@ -1,0 +1,23 @@
+{
+  "name": "using-kafka",
+  "version": "1.0.0",
+  "description": "a basic kafka example",
+  "main": "src/consumer/consumer.js",
+  "dependencies": {
+    "no-kafka": "^3.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyanbasso/using-kafka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalyanbasso/using-kafka/issues"
+  },
+  "homepage": "https://github.com/kalyanbasso/using-kafka#readme"
+}
